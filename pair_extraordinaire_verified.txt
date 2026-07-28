@@ -1,1 +1,2 @@
 Verified Co-author entry #4: The Octocat <583231+octocat@users.noreply.github.com>
+Verified Co-author entry #5: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
