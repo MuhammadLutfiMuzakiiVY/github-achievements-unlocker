@@ -1,0 +1,16 @@
+# GitIgnore for SecureKey Post-Quantum Cryptography Project
+
+# Private Keys (NEVER COMMIT PRIVATE KEYS)
+*_private.key
+*.key
+
+# Build and Target directories
+target/
+*.exe
+*.o
+*.so
+*.dylib
+__pycache__/
+
+# Backups
+*.bak*
